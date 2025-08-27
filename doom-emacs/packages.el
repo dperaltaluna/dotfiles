@@ -51,4 +51,4 @@
 ;;(package! org-bullets)
 (package! org-modern)
 (package! tldr)
-(package! vterm)
+;;(package! vterm)
